@@ -1,17 +1,17 @@
 {
-    "name": "SuperBit",
+    "name": "Variable_car",
     "version": "2.0.0",
-    "description": "Extension for YahBoom SuperBit V2.0",
+    "description": "Extension for Variable_car V2.0",
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "neopixel": "github:lzty634158/pxt-neopixel"
+        "neopixel": "github:Fanhuayouli/pxt-neopixel"
     },
     "files": [
         "README.md",
         "main.ts",
-        "_locales/zh-cn/SuperBit-strings.json",
-        "_locales/zh-tw/SuperBit-strings.json"
+        "_locales/zh-cn/Variable_car-strings.json",
+        "_locales/zh-tw/Variable_car-strings.json"
 
     ],
     "testFiles": [
